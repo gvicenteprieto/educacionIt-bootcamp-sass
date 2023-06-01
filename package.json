@@ -1,0 +1,16 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto_pruebas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch ./prod/styles.sass:./public/styles.css"
+
+  },
+  "author": "Guillermo Vicente",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^9.6.7"
+  }
+}
